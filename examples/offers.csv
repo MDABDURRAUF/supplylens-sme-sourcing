@@ -1,0 +1,14 @@
+sku,supplier,country,unit_cost,freight_per_unit,capacity,min_order,lead_time,risk,deposit_pct,payment_terms_days,fixed_order_cost
+STEEL-BOWL,Ohio Metalworks,US,6.9,0.25,3000,500,14,0.05,0.0,30,150
+STEEL-BOWL,Monterrey Industrial,MX,5.6,0.45,4000,1000,21,0.1,0.3,15,400
+STEEL-BOWL,Shenzhen Brightway,CN,4.1,0.85,6000,2000,45,0.22,0.3,0,900
+STEEL-BOWL,Hanoi Precision,VN,4.6,0.9,5000,1500,50,0.18,0.3,0,850
+SILICONE-LID,Carolina Pack,US,1.95,0.08,4000,500,10,0.04,0.0,30,120
+SILICONE-LID,Shenzhen Brightway,CN,1.05,0.2,8000,3000,45,0.22,0.3,0,900
+SILICONE-LID,Hanoi Precision,VN,1.2,0.22,6000,2000,50,0.18,0.3,0,850
+GIFT-BOX,Carolina Pack,US,1.1,0.06,6000,500,10,0.04,0.0,30,120
+GIFT-BOX,Monterrey Industrial,MX,0.92,0.12,5000,1000,21,0.1,0.3,15,400
+GIFT-BOX,Shenzhen Brightway,CN,0.7,0.16,8000,3000,45,0.22,0.3,0,900
+HANDLE-KIT,Ohio Metalworks,US,3.4,0.15,2500,500,14,0.05,0.0,30,150
+HANDLE-KIT,Monterrey Industrial,MX,2.85,0.25,3000,500,21,0.1,0.3,15,400
+HANDLE-KIT,Hanoi Precision,VN,2.3,0.4,4000,1000,50,0.18,0.3,0,850

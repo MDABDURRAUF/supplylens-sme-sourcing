@@ -1,0 +1,6 @@
+supplier,country,sku,quantity,unit_cost,goods_cost,lead_time,deposit_pct,payment_terms_days,deposit_due_at_order,balance_due
+Carolina Pack,US,GIFT-BOX,5000,1.1,5500.0,10,0.0,30,0.0,5500.0
+Carolina Pack,US,SILICONE-LID,4000,1.95,7800.0,10,0.0,30,0.0,7800.0
+Hanoi Precision,VN,SILICONE-LID,2000,1.2,2400.0,50,0.3,0,720.0,1680.0
+Monterrey Industrial,MX,HANDLE-KIT,3000,2.85,8550.0,21,0.3,15,2565.0,5985.0
+Monterrey Industrial,MX,STEEL-BOWL,4000,5.6,22400.0,21,0.3,15,6720.0,15680.0
