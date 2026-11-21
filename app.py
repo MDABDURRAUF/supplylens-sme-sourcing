@@ -2,6 +2,15 @@
 
 from __future__ import annotations
 
+import sys
+from pathlib import Path as _Path
+
+# Let the app run straight from a checkout (for example on Streamlit Community
+# Cloud) without the package being installed first.
+_SRC = _Path(__file__).resolve().parent / "src"
+if _SRC.is_dir() and str(_SRC) not in sys.path:
+    sys.path.insert(0, str(_SRC))
+
 from io import BytesIO
 
 import numpy as np

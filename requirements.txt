@@ -1,0 +1,7 @@
+# Dependencies for running the dashboard (streamlit run app.py),
+# used by Streamlit Community Cloud. For development use: pip install -e ".[app,dev]"
+numpy>=1.24
+pandas>=2.0
+scipy>=1.11
+streamlit>=1.50
+plotly>=5.20
