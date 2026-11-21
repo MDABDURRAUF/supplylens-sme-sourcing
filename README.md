@@ -3,6 +3,8 @@
 **Sourcing plans for small and medium-sized US businesses: who to buy from, what it really costs once
 duty, freight and cash are counted, and what happens if a tariff changes or a supplier fails.**
 
+**[Try the live dashboard](https://supplylens-sme-sourcing.streamlit.app)** — runs in your browser on illustrative sample data, nothing to install.
+
 Small importers face the same tariff changes, supplier failures and cash pressure as large companies, usually
 without a sourcing team or optimization software. This tool gives a small business that analysis from three
 CSV files and a browser.
